@@ -1,4 +1,4 @@
-# helsinkiStudentAccomodation
+# helsinkiStudentAccommodation
 List of different providers or social media groups where to look for (student) accomodation in Helsinki, Espoo and surrounding area. Not checked. Beware of scams!
 
 Origin of the links below
