@@ -30,6 +30,7 @@ Origin of the links below
 
 ## Private sector
 - [Oy Coordinator Ab Ltd](http://www.coordinator.fi/alivuokrauseng.html) -- some rooms in Lehtisaari
+- [Forenom Hostels](https://www.forenom.com/hostels/) -- 5 hostels in Helsinki metropolitan area available for long-term; also has some apartments, but hostels are more affordable
 
 ## Unsorted links (Under construction)
 - https://asunnot.oikotie.fi/vuokrattavat-asunnot
@@ -41,7 +42,6 @@ Origin of the links below
 - https://vav.fi/en/ (Vantaa)
 - https://www.espoonasunnot.fi/en (Espoo)
 - https://www.hekaoy.fi/en (Helsinki)
-- https://www.forenom.com/furnished-apartments-and-rooms-affordably/
 - https://www.hel.fi/kv/stadinasunnot-fi
 - http://www.avara.fi/en
 - http://www.keva.fi/en
