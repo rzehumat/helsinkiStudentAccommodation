@@ -28,6 +28,9 @@ Origin of the links below
 - [Sublet.com](https://www.sublet.com/apartments-for-rent/helsinki)
 - [Airbnb](https://www.airbnb.com/)
 
+## Private sector
+- [Oy Coordinator Ab Ltd](http://www.coordinator.fi/alivuokrauseng.html) -- some rooms in Lehtisaari
+
 ## Unsorted links (Under construction)
 - https://asunnot.oikotie.fi/vuokrattavat-asunnot
 - https://www.sato.fi/
