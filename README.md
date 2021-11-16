@@ -14,7 +14,7 @@ Origin of the links below
 ## Student housing providers
 **Apply ASAP, even without Letter of Acceptance**
 - [HOAS](https://www.hoas.fi/) - applying both for furnished and unfurnished appartments is recommended
-- [AYY](https://domo.ayy.fi/)
+- [AYY](https://domo.ayy.fi/) - apply with a friend to increase your chances 
 
 ## Student houses
 - [AnttiKorppi Student House](https://www.anttikorppi.com/home/)
