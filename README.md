@@ -10,6 +10,8 @@ Origin of the links below
 
 # Guidelines
 - [Aalto University -- Housing for exchange students](https://into.aalto.fi/display/enuudet/Housing+for+exchange+students)
+- [Aalto University -- Finding a private rental](https://www.aalto.fi/en/services/finding-a-private-rental)
+- [Aalto University -- Housing for students](https://www.aalto.fi/en/services/housing-for-students)
 
 ## Student housing providers
 **Apply ASAP, even without Letter of Acceptance**
