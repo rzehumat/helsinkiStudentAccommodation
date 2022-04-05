@@ -19,7 +19,7 @@ Origin of the links below
 - [AYY](https://domo.ayy.fi/) - apply with a friend to increase your chances 
 
 ## Student houses
-- [AnttiKorppi Student House](https://www.anttikorppi.com/home/)
+- [AnttiKorppi Student House](https://www.anttikorppi.com/home/) -- approx 450 € / month, available for PhD as well, but quite far (50 mins by public transport)
 
 ## Facebook groups
 - [Apartments for students in Helsinki Metropolitan area](https://www.facebook.com/groups/112489548797522/)
