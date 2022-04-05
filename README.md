@@ -33,6 +33,7 @@ Origin of the links below
 ## Private sector
 - [Oy Coordinator Ab Ltd](http://www.coordinator.fi/alivuokrauseng.html) -- some rooms in Lehtisaari
 - [Forenom Hostels](https://www.forenom.com/hostels/) -- 5 hostels in Helsinki metropolitan area available for long-term; also has some apartments, but hostels are more affordable
+- Aalto Inn -- close to campus, suitable for PhD students before they find their own flat, approx 1.2 k€/month (not verified!)
 
 ## Unsorted links (Under construction)
 - https://asunnot.oikotie.fi/vuokrattavat-asunnot
